@@ -13,5 +13,12 @@ Package 'robcompositions'; Templ, Hron, Filzmoser, Facevicova, Kynclova, Walach,
 
 References
 
+Benz, D. (2019). R-BioGeochemistry. 1.0. Script 'Censor-ImputeMissing'. R script version 3.5.3.
+
+Benz, D. (2019). R-BioGeochemistry. 1.0. Script 'Censor-ImputeUDL'. R script version 3.5.3.
+
+Benz, D. (2019). R-BioGeochemistry. 1.0. Script 'PCA-workflow-ImputeBDL-clr-RQPCA'. R script version 3.5.3.
+
 Garrett, R.G. (2018). rgr: Applied Geochemistry EDA. 1.1.15. Package 'rgr'. R package version 3.5.3.
-Templ, M., Hron, K., Filzmoser, P., Facevicova, P., Kynclova, P., Walach, J., Pintar, V.,  Chen, J. and Miksova D. (2019). rgr: Applied Geochemistry EDA. 2.10.0. Package 'robCompositions'. R package version 3.5.3.
+
+Templ, M., Hron, K., Filzmoser, P., Facevicova, P., Kynclova, P., Walach, J., Pintar, V.,  Chen, J. and Miksova D. (2019). robCompositions: Robust Estimation for Compositional Data. 2.10.0. Package 'robCompositions'. R package version 3.5.3.
