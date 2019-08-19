@@ -8,6 +8,7 @@ Please note that these scripts use R-packages that are protected under their own
 Package Descriptions
 
 Package 'rgr', Garrett (2018): https://cran.r-project.org/web/packages/rgr/rgr.pdf
+
 Package 'robcompositions'; Templ, Hron, Filzmoser, Facevicova, Kynclova, Walach, Pintar, Chen and Miksova (2019): https://cran.r-project.org/web/packages/robCompositions/robCompositions.pdf
 
 References
